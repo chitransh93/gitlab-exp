@@ -17,5 +17,5 @@ jobs:
       with:
         url: "http://3.12.111.34:8080/"
         user: "admin1"
-        token: ${{ secrets.TOKEN }}
+        token: ${{ secrets.TOKEN1 }}
         job: "ex_job"
