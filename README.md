@@ -32,8 +32,3 @@ Contributions are always welcome. Currently there are few important things to do
 * Add support for general download links on top of torrents, using aria2c will fix this
 
 _Wolke just means cloud in German xD_
-
-THIS IS EDIT IN PATCH2
-
-
-THIS IS TESTING.
