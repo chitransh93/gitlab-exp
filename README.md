@@ -33,5 +33,13 @@ Contributions are always welcome. Currently there are few important things to do
 
 _Wolke just means cloud in German xD_
 
+<<<<<<< HEAD
+THIS IS TESTING.
+
+
 THIS IS EDIT IN PATCH2
 
+THIS IS TESTING.
+=======
+THIS IS EDIT IN PATCH2
+>>>>>>> 7bf2c011225465a358eb309309db6f1112a71b48
