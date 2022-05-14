@@ -28,3 +28,4 @@ run_wolke:
   - docker build -t gdrive_upload .
   - docker run gdrive_upload
   - echo "downloaded contents are upload to shared gdrive folder"
+  
